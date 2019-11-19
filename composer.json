@@ -1,0 +1,14 @@
+{
+    "name": "squareup/simple-cc-integration",
+    "description": "Simple credit card integration using SquareUp",
+    "type": "project",
+    "require": {
+        "square/connect": "^2.20190925"
+    },
+    "authors": [
+        {
+            "name": "pablogarban",
+            "email": "pa@garban.dev"
+        }
+    ]
+}
